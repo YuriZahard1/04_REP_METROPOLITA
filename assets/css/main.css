@@ -3648,8 +3648,8 @@
 			top: 0;
 			vertical-align: middle;
 			width: 7em;
-		}
-
+		} 
+		
 			#menu .close:before {
 				content: "";
 				-moz-osx-font-smoothing: grayscale;
@@ -4227,3 +4227,7 @@
 			}
 
 		}
+		#three, #four, #footer section {
+			display: none;
+		}
+		
